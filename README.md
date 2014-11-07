@@ -1,7 +1,7 @@
 Unity-Remote-NFC-Card-Reader
 ============================
 
-Three project used to build a remote NFC reader for Unity on Android system.
+Three projects used to build a remote NFC reader for Unity on Android system.
 
 The Eclipse project build a library used by Unity to receive the NFC data scanned by Android.
 The two Unity projects build a small client-server infrastructure
